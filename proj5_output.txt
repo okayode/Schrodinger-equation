@@ -2,8 +2,8 @@
 #         Variational solution of the Schrodinger equation for Hydrogen atom          #
 #######################################################################################
 #                        Kayode Olumoyin                                              #
-#                        COMS 7100                                                    #
-#                        Project 5                                                    #
+#                                                                                     #
+#                                                                                     #
 #######################################################################################
 
  The number of STO-nG files detected = 8
