@@ -177,8 +177,8 @@ print('#########################################################################
 print('#         Variational solution of the Schrodinger equation for Hydrogen atom          #')
 print('#######################################################################################')
 print('#                        Kayode Olumoyin                                              #')
-print('#                        COMS 7100                                                    #')
-print('#                        Project 5                                                    #')
+print('#                                                                                     #')
+print('#                                                                                     #')
 print('#######################################################################################')
 
 r = sym.Symbol('r'); alpha = sym.Symbol('alpha', positive=True)         # set (alpha > 0)
